@@ -8,5 +8,6 @@ Features of an Airbnb clone_v3 project may include user authentication and autho
 
 However, the specific features and functionality of an AirBNB clone_v3 project can vary depending on the developer's goals and requirements for the project.
 
-The author of this project:Kennedy Muiruri
-			   Dianah Nthenya
+The author of this project:
+Kennedy Muiruri
+Dianah Nthenya
